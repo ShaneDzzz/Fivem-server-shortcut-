@@ -1,6 +1,6 @@
 1. Create a copy of the Fivem Shortcut.
 2. Right-click the new shortcut and select **Properties**.
-3. Under **Target** add `-pure_1 +connect vxxabx`.
+3. Under **Target** add `-pure_1 +connect xqp5v5`.
 
 Note: if your target has quotes (`""`) around it, put the text after the closing quote.
 
